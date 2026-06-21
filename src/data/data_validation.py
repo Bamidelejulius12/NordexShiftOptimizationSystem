@@ -76,5 +76,3 @@ def starting_datavalidation(data: pd.DataFrame):
         raise MyException(e, sys)
 
 
-data = load_data()
-starting_datavalidation(data)

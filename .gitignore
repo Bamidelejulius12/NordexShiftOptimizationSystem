@@ -8,6 +8,8 @@ logs/
 
 # environment
 nordex_env/
+.env
+
 
 # C extensions
 *.so
