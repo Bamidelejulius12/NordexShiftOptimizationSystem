@@ -2,7 +2,7 @@ import dagshub
 import mlflow
 import os
 
-from config.constant import EXPERIMENT_NAME, dagshub_url, repo_owner, repo_name
+from config.constant import EXPERIMENT_NAME, repo_owner, repo_name
 
 from dotenv import load_dotenv
 load_dotenv(override = True)
