@@ -18,6 +18,5 @@ os.makedirs(log_folder_path, exist_ok=True)
 log_file_path = os.path.join(log_folder_path, LOG_FILE)
 
 target_column = "shift_efficiency_score"
-dagshub_url = "https://dagshub.com"
 repo_owner = "babatundejulius911"
 repo_name = "NordexShiftOptimizationSystem"

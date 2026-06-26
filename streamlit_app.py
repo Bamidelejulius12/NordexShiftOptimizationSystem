@@ -5,7 +5,7 @@ import datetime
 
 from src.data.data_ingestion import load_data
 
-API_URL = "http://127.0.0.1:8000"
+API_URL = "http://localhost:8000"
 
 st.set_page_config(page_title="NorDex Shift Dashboard", layout="wide")
 st.title("NorDex Manufacturing – Shift Intelligence Dashboard")

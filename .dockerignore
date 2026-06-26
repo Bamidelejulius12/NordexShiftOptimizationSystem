@@ -1,6 +1,2 @@
-logs/
-
-# environment
 nordex_env/
-.env
-nordex_app.pem
+nordex-app-key.pem
